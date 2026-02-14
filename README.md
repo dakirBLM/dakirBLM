@@ -8,6 +8,8 @@ I build practical applications involving **client–server communication, databa
 **Smart platfrom for patients and clinics NERO (Bachelor Thesis)**  
 Web-based system that guides patients to appropriate clinics based on their conditions.
 
+![Gameplay demo](one-piece-pixel.gif)
+
 ## 🧠 Interests
 - Backend & system development  
 - Networking  
