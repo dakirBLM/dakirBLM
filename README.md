@@ -7,6 +7,9 @@ I build practical applications involving **client–server communication, databa
 **Smart platfrom for patients and clinics NERO (Bachelor Thesis)**  
 Web-based system that guides patients to appropriate clinics based on their conditions.
 
+**Global Forum for Researchers (GFR)**
+An integrated global academic social network and research management platform supporting collaboration, peer-reviewed publishing, and innovation.
+
 ## 🧠 Interests
 - Backend & system development  
 - Networking  
