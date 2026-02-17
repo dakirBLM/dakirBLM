@@ -9,7 +9,7 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
 ```
 
-### `> BOULEMCHAOUR_DAKIR.init()`
+### `> BOULEMCHAOUR_DAKIR.init()` ![Gameplay demo](uzumaki-naruto-shippuden.gif) 
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-c9d6f0?style=flat-square&labelColor=000814&color=1a3a8f)
 ![Year](https://img.shields.io/badge/CS_YEAR-3rd-c9d6f0?style=flat-square&labelColor=000814&color=102a6b)
