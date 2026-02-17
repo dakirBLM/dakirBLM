@@ -107,7 +107,17 @@
 ![Python](https://img.shields.io/badge/Python-000814?style=for-the-badge&logo=python&logoColor=4a7fd4)
 ![Django](https://img.shields.io/badge/Django-000814?style=for-the-badge&logo=django&logoColor=4a7fd4)
 ![Git](https://img.shields.io/badge/Git-000814?style=for-the-badge&logo=git&logoColor=ff6b1a)
-![Docker](https://img.shields.io/badge/Docker-000814?style=for-the-badge&logo=Docker&logoColor=ff6b1a)
+![Docker](https://img.shields.io/badge/Docker-000814?style=for-the-badge&logo=docker&logoColor=ff6b1a)
+![Azure](https://img.shields.io/badge/Azure-000814?style=for-the-badge&logo=microsoftazure&logoColor=4a7fd4)
+```
+
+The logo name for Azure is `microsoftazure` — that's the exact slug from Simple Icons.
+
+---
+
+So the formula is always:
+```
+...badge/LABEL-BGCOLOR?style=for-the-badge&logo=SIMPLEICONS_SLUG&logoColor=COLOR
 
 **[ FRONTEND & DATA ]**
 
