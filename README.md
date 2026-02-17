@@ -107,6 +107,7 @@
 ![Python](https://img.shields.io/badge/Python-000814?style=for-the-badge&logo=python&logoColor=4a7fd4)
 ![Django](https://img.shields.io/badge/Django-000814?style=for-the-badge&logo=django&logoColor=4a7fd4)
 ![Git](https://img.shields.io/badge/Git-000814?style=for-the-badge&logo=git&logoColor=ff6b1a)
+![Docker](https://img.shields.io/badge/Docker-000814?style=for-the-badge&logo=git&logoColor=ff6b1a)
 
 **[ FRONTEND & DATA ]**
 
