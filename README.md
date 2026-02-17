@@ -11,7 +11,7 @@
 
 ### `> BOULEMCHAOUR_DAKIR.init()`
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ffe7?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ffe7?style=flat-square&labelColor=0d1119)
 ![Year](https://img.shields.io/badge/CS_YEAR-3rd-ff6b1a?style=flat-square&labelColor=0d1117)
 ![Focus](https://img.shields.io/badge/FOCUS-Backend_%26_Systems-39ff14?style=flat-square&labelColor=0d1117)
 
