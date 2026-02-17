@@ -110,7 +110,6 @@
 ![Docker](https://img.shields.io/badge/Docker-000814?style=for-the-badge&logo=docker&logoColor=ff6b1a)
 ![Azure](https://img.shields.io/badge/Azure-000814?style=for-the-badge&logo=microsoftazure&logoColor=4a7fd4)
 ```
-
 The logo name for Azure is `microsoftazure` — that's the exact slug from Simple Icons.
 
 ---
