@@ -11,19 +11,50 @@
 
 ### `> BOULEMCHAOUR_DAKIR.init()`
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ffe7?style=flat-square&labelColor=0d1119)
-![Year](https://img.shields.io/badge/CS_YEAR-3rd-ff6b1a?style=flat-square&labelColor=0d1117)
-![Focus](https://img.shields.io/badge/FOCUS-Backend_%26_Systems-39ff14?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-c9d6f0?style=flat-square&labelColor=000814&color=1a3a8f)
+![Year](https://img.shields.io/badge/CS_YEAR-3rd-c9d6f0?style=flat-square&labelColor=000814&color=102a6b)
+![Focus](https://img.shields.io/badge/FOCUS-Security_%26_Systems-c9d6f0?style=flat-square&labelColor=000814&color=0d2461)
 
 </div>
 
 ---
 
 ```
-[SYS] > Loading profile: Dakir Boulemchaour
-[SYS] > Role       :: CS Student · Backend Engineer · Full-Stack Dev
-[SYS] > Building   :: client-server systems · databases · system logic
-[SYS] > Status     :: 2 active projects
+[SYS] > Loading profile ................ DAKIR BOULEMCHAOUR
+[SYS] > Role         :: Security-Minded Backend & Systems Engineer
+[SYS] > Discipline   :: System Design · Backend Arch · Security Engineering
+[SYS] > Stack        :: C/C++ · Python · Django · Linux · SQL
+[SYS] > Projects     :: 2 active deployments
+[SYS] > Status       :: OPERATIONAL ██████████ 100%
+```
+
+---
+
+## 🔐 CORE DISCIPLINES
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   [01]  SECURITY ENGINEERING                    ◉ PRIMARY   │
+│         └─ Threat modeling · Secure architecture             │
+│            Protocol hardening · Attack surface analysis      │
+│                                                              │
+│   [02]  SYSTEM DESIGN & ARCHITECTURE            ◉ PRIMARY   │
+│         └─ Distributed systems · Client-server models        │
+│            Scalable design patterns · System logic           │
+│                                                              │
+│   [03]  BACKEND ENGINEERING                     ◉ PRIMARY   │
+│         └─ API design · Server-side logic                    │
+│            Performance optimization · Service architecture   │
+│                                                              │
+│   [04]  NETWORKING                              ○ ACTIVE    │
+│         └─ Protocol analysis · Network security              │
+│            Infrastructure design                             │
+│                                                              │
+│   [05]  DATA LAYER                              ○ ACTIVE    │
+│         └─ Relational databases · Query optimization         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -31,47 +62,58 @@
 ## ⚡ ACTIVE PROJECTS
 
 ### `[PROJ_001]` — **NERO** *(Bachelor Thesis)*
-> Smart platform for patients and clinics — a web-based system that routes patients to appropriate clinics based on their conditions.
 
-![WIP](https://img.shields.io/badge/STATUS-IN_PROGRESS-ff6b1a?style=flat-square&labelColor=0d1117)
-![Type](https://img.shields.io/badge/TYPE-THESIS-00ffe7?style=flat-square&labelColor=0d1117)
+> Secure, intelligent web platform routing patients to appropriate clinics based on condition analysis — built with security-first architecture and robust server-side logic.
+
+![WIP](https://img.shields.io/badge/STATUS-IN_PROGRESS-ff6b1a?style=flat-square&labelColor=000814)
+![Type](https://img.shields.io/badge/TYPE-THESIS-1a3a8f?style=flat-square&labelColor=000814)
+![Arch](https://img.shields.io/badge/ARCH-Client--Server-0d2461?style=flat-square&labelColor=000814)
 
 ---
 
 ### `[PROJ_002]` — **GFR** — Global Forum for Researchers
-> An integrated global academic social network and research management platform supporting collaboration, peer-reviewed publishing, and innovation.
 
-![WIP](https://img.shields.io/badge/STATUS-IN_PROGRESS-ff6b1a?style=flat-square&labelColor=0d1117)
-![Type](https://img.shields.io/badge/TYPE-OPEN_COLLAB-39ff14?style=flat-square&labelColor=0d1117)
+> Integrated academic platform with secure multi-user collaboration, peer-reviewed publishing pipeline, and hardened research management infrastructure.
 
----
-
-## 🧠 FOCUS AREAS
-
-```
-┌─────────────────────────────────────────────────┐
-│  ⚙️  Backend & System Development                │
-│  🌐  Networking                                  │
-│  🔐  Cybersecurity                               │
-└─────────────────────────────────────────────────┘
-```
+![WIP](https://img.shields.io/badge/STATUS-IN_PROGRESS-ff6b1a?style=flat-square&labelColor=000814)
+![Type](https://img.shields.io/badge/TYPE-OPEN_COLLAB-1a3a8f?style=flat-square&labelColor=000814)
+![Arch](https://img.shields.io/badge/ARCH-Distributed-0d2461?style=flat-square&labelColor=000814)
 
 ---
 
-## 🛠️ TECH STACK
+## 🛡️ SECURITY & SYSTEMS MINDSET
+
+```
+  APPROACH  ::  Secure by design — not bolted on after
+  PRIORITY  ::  System integrity · Least privilege · Defense in depth
+  PRACTICE  ::  Threat modeling from the architecture phase
+  INTEREST  ::  Protocol internals · OS-level security · Network hardening
+```
+
+---
+
+## 🛠️ TECH ARSENAL
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00427e?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=00ffe7)
-![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=39ff14)
-![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=00ffe7)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=ff6b1a)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=00ffe7)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=ff6b1a)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=white)
+**[ SYSTEMS & SECURITY ]**
+
+![C](https://img.shields.io/badge/C-000814?style=for-the-badge&logo=c&logoColor=4a7fd4)
+![C++](https://img.shields.io/badge/C++-000814?style=for-the-badge&logo=cplusplus&logoColor=4a7fd4)
+![Linux](https://img.shields.io/badge/Linux-000814?style=for-the-badge&logo=linux&logoColor=c9d6f0)
+
+**[ BACKEND ]**
+
+![Python](https://img.shields.io/badge/Python-000814?style=for-the-badge&logo=python&logoColor=4a7fd4)
+![Django](https://img.shields.io/badge/Django-000814?style=for-the-badge&logo=django&logoColor=4a7fd4)
+![Git](https://img.shields.io/badge/Git-000814?style=for-the-badge&logo=git&logoColor=ff6b1a)
+
+**[ FRONTEND & DATA ]**
+
+![HTML5](https://img.shields.io/badge/HTML5-000814?style=for-the-badge&logo=html5&logoColor=ff6b1a)
+![CSS3](https://img.shields.io/badge/CSS3-000814?style=for-the-badge&logo=css3&logoColor=4a7fd4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000814?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![SQL](https://img.shields.io/badge/SQL-000814?style=for-the-badge&logo=postgresql&logoColor=4a7fd4)
 
 </div>
 
@@ -80,15 +122,16 @@
 ## 📡 CONTACT
 
 ```
-┌──────────────────────────────────────────────────────┐
-│  SECURE CHANNEL  ::  dakirboulemchaour@gmail.com     │
-│  OPEN TO         ::  Collaborations · Internships    │
-└──────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  SECURE CHANNEL  ::  dakirboulemchaour@gmail.com             │
+│  OPEN TO         ::  Security · Backend · Systems roles       │
+│                      Research collaborations                  │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-dakirboulemchaour%40gmail.com-00ffe7?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dakirboulemchaour@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-dakirboulemchaour%40gmail.com-4a7fd4?style=flat-square&logo=gmail&logoColor=white&labelColor=000814)](mailto:dakirboulemchaour@gmail.com)
 
 </div>
 
@@ -96,8 +139,6 @@
 
 <div align="center">
 
-![Visitor](https://img.shields.io/badge/PROFILE_VIEWS-tracked-39ff14?style=flat-square&labelColor=0d1117)
-
-`// EOF — DAKIR_PROFILE_v1.0`
+`// EOF — DAKIR_PROFILE_v2.0 — SECURITY · SYSTEMS · BACKEND`
 
 </div>
