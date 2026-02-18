@@ -23,7 +23,7 @@
 [SYS] > Loading profile ................ DAKIR BOULEMCHAOUR
 [SYS] > Role         :: Security-Minded Backend & Systems Engineer
 [SYS] > Discipline   :: System Design · Backend Arch · Security Engineering
-[SYS] > Stack        :: C/C++ · Python · Django · Linux · SQL
+[SYS] > Stack        :: C/C++ · Python · Django · Linux · SQL .Docker .Azure
 [SYS] > Projects     :: 2 active deployments
 [SYS] > Status       :: OPERATIONAL ██████████ 100%
 ```
