@@ -51,7 +51,7 @@
 │         └─ Protocol analysis · Network security              │
 │            Infrastructure design                             │
 │                                                              │
-│   [05]  DATA LAYER                              ○ ACTIVE    │
+│   [05]  DATA LAYER                              ○ ACTIVE     │
 │         └─ Relational databases · Query optimization         │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
