@@ -35,19 +35,19 @@
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│   [01]  SECURITY ENGINEERING                    ◉ PRIMARY   │
+│   [01]  SECURITY ENGINEERING                    ◉ PRIMARY    │
 │         └─ Threat modeling · Secure architecture             │
 │            Protocol hardening · Attack surface analysis      │
 │                                                              │
-│   [02]  SYSTEM DESIGN & ARCHITECTURE            ◉ PRIMARY   │
+│   [02]  SYSTEM DESIGN & ARCHITECTURE            ◉ PRIMARY    │
 │         └─ Distributed systems · Client-server models        │
 │            Scalable design patterns · System logic           │
 │                                                              │
-│   [03]  BACKEND ENGINEERING                     ◉ PRIMARY   │
+│   [03]  BACKEND ENGINEERING                     ◉ PRIMARY    │
 │         └─ API design · Server-side logic                    │
 │            Performance optimization · Service architecture   │
 │                                                              │
-│   [04]  NETWORKING                              ○ ACTIVE    │
+│   [04]  NETWORKING                              ○ ACTIVE     │
 │         └─ Protocol analysis · Network security              │
 │            Infrastructure design                             │
 │                                                              │
@@ -128,8 +128,8 @@
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  SECURE CHANNEL  ::  dakirboulemchaour@gmail.com             │
-│  OPEN TO         ::  Security · Backend · Systems roles       │
-│                      Research collaborations                  │
+│  OPEN TO         ::  Security · Backend · Systems roles      │
+│                      Research collaborations                 │
 └──────────────────────────────────────────────────────────────┘
 ```
 
