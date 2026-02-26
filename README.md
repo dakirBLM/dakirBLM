@@ -30,35 +30,6 @@
 
 ---
 
-## 🔐 CORE DISCIPLINES
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   [01]  SECURITY ENGINEERING                    ◉ PRIMARY    │
-│         └─ Threat modeling · Secure architecture             │
-│            Protocol hardening · Attack surface analysis      │
-│                                                              │
-│   [02]  SYSTEM DESIGN & ARCHITECTURE            ◉ PRIMARY    │
-│         └─ Distributed systems · Client-server models        │
-│            Scalable design patterns · System logic           │
-│                                                              │
-│   [03]  BACKEND ENGINEERING                     ◉ PRIMARY    │
-│         └─ API design · Server-side logic                    │
-│            Performance optimization · Service architecture   │
-│                                                              │
-│   [04]  NETWORKING                              ○ ACTIVE     │
-│         └─ Protocol analysis · Network security              │
-│            Infrastructure design                             │
-│                                                              │
-│   [05]  DATA LAYER                              ○ ACTIVE     │
-│         └─ Relational databases · Query optimization         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
 ## ⚡ ACTIVE PROJECTS
 
 ### `[PROJ_001]` — **NERO** *(Bachelor Thesis)*
