@@ -50,6 +50,15 @@
 ![Type](https://img.shields.io/badge/TYPE-OPEN_COLLAB-1a3a8f?style=flat-square&labelColor=000814)
 ![Arch](https://img.shields.io/badge/ARCH-Distributed-0d2461?style=flat-square&labelColor=000814)
 
+
+### `[PROJ_003 ]`— **ComptaOCR** - web app for Algerian SCF accounting 
+
+>web app for Algerian SCF accounting that lets you upload invoices, runs OCR + Gemini AI to extract fields and line items, and automatically generates balanced accounting entries (journal, balance, and reports)
+>
+![WIP](https://img.shields.io/badge/STATUS-IN_PROGRESS-ff6b1a?style=flat-square&labelColor=000814)
+![Type](https://img.shields.io/badge/TYPE-OPEN_COLLAB-1a3a8f?style=flat-square&labelColor=000814)
+![Arch](https://img.shields.io/badge/ARCH-Distributed-0d2461?style=flat-square&labelColor=000814)
+
 ---
 
 ## 🛡️ SECURITY & SYSTEMS MINDSET
