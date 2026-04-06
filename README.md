@@ -3,9 +3,9 @@
      ============================================================ -->
 
 
-
+![Gameplay demo](uzumaki-naruto-shippuden.gif) 
 <div align="center">
-[Gameplay demo](uzumaki-naruto-shippuden.gif) 
+
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
@@ -46,13 +46,7 @@ interests:
   - AI-powered automation pipelines
   - Secure backend architecture & API design
   - Systems programming (C / C++ / Linux internals)
-  - LLM integration & intelligent document processing
   - Defense-in-depth, threat modeling, hardened infra
-
-currently:
-  - Bachelor thesis (NERO — AI patient routing platform)
-  - Integrating Gemini AI into production accounting workflows
-  - Exploring agentic systems & autonomous task runners
 ```
 
 ---
@@ -64,17 +58,7 @@ currently:
 ### ◈ `NERO` — Intelligent Clinical Routing Platform
 > **Bachelor Thesis** · Security-First Architecture
 
-An AI-powered web platform that analyzes patient conditions and routes them to the most appropriate clinic — built with a security-first mindset from day one.
-
-```
-stack     : Python · Django · PostgreSQL · Docker · Azure
-ai layer  : Condition classification · Intelligent triage logic
-security  : Threat modeling · Input hardening · Role-based access control
-arch      : Client–Server · RESTful API · Containerized deployment
-```
-
-![WIP](https://img.shields.io/badge/●_IN_PROGRESS-Thesis-ff6b1a?style=flat-square&labelColor=0a0a0a)
-![Security](https://img.shields.io/badge/Secure_by_Design-✓-1D9E75?style=flat-square&labelColor=0a0a0a)
+web platform that analyzes patient conditions and routes them to the most appropriate clinic 
 
 ---
 
@@ -83,15 +67,6 @@ arch      : Client–Server · RESTful API · Containerized deployment
 
 Multi-user academic platform with secure collaboration, peer-reviewed publishing pipeline, and hardened research infrastructure.
 
-```
-stack     : Python · Django · SQL · Docker
-arch      : Distributed · Microservice-ready · Multi-tenant auth
-security  : Session hardening · RBAC · Audit trails
-```
-
-![WIP](https://img.shields.io/badge/●_IN_PROGRESS-Collab-ff6b1a?style=flat-square&labelColor=0a0a0a)
-![Type](https://img.shields.io/badge/Open-Collaboration-185FA5?style=flat-square&labelColor=0a0a0a)
-
 ---
 
 ### ◈ `ComptaOCR` — AI Accounting Automation Engine
@@ -99,38 +74,8 @@ security  : Session hardening · RBAC · Audit trails
 
 Upload an invoice → OCR scans it → Gemini AI extracts fields and line items → system auto-generates balanced journal entries, trial balance, and financial reports. Fully automated. Zero manual data entry.
 
-```
-stack     : Python · Django · Next.js · TypeScript · Gemini API
-pipeline  : PDF/Image Upload → Tesseract OCR → LLM Extraction → SCF Mapping
-output    : Journal entries · Balance sheet · P&L reports
-ai layer  : Google Gemini Pro · Structured JSON extraction · Validation logic
-```
-
-![WIP](https://img.shields.io/badge/●_IN_PROGRESS-AI_Automation-ff6b1a?style=flat-square&labelColor=0a0a0a)
-![AI](https://img.shields.io/badge/Gemini_AI-Integrated-534AB7?style=flat-square&labelColor=0a0a0a)
-
 ---
 
-## `>_ security_philosophy`
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   "Security is not a feature you add.                           │
-│    It's the foundation you build on."                           │
-│                                                                 │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│   APPROACH  →  Threat model before you write line one           │
-│   PRIORITY  →  Least privilege · zero trust · fail secure       │
-│   PRACTICE  →  Input validation · audit logging · RBAC          │
-│   INTEREST  →  Protocol internals · OS-level hardening          │
-│             →  Network security · Cryptographic primitives      │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
 
 ## `>_ tech_arsenal --all`
 
@@ -166,38 +111,6 @@ ai layer  : Google Gemini Pro · Structured JSON extraction · Validation logic
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 ![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=ff6b1a)
 ![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=4a7fd4)
-
----
-
-## `>_ currently_learning`
-
-```python
-focus_areas = [
-    "Agentic AI systems & autonomous task execution",
-    "TypeScript API design patterns (Next.js App Router)",
-    "Secure LLM integration — prompt injection defense",
-    "Network protocol internals & packet analysis",
-    "Zero-trust architecture for multi-tenant apps",
-]
-
-# always compiling...
-while True:
-    learn(focus_areas)
-    build(something_that_matters)
-    secure(everything)
-```
-
----
-
-## `>_ github_stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DakirBoulemchaour&show_icons=true&theme=transparent&hide_border=true&title_color=378ADD&icon_color=1D9E75&text_color=c9d6f0&bg_color=00000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DakirBoulemchaour&layout=compact&theme=transparent&hide_border=true&title_color=378ADD&text_color=c9d6f0&bg_color=00000000)
-
-</div>
 
 ---
 
