@@ -38,10 +38,6 @@
 
 ```yaml
 name        : Dakir Boulemchaour
-role        : Security-Minded Backend & Systems Engineer
-location    : Algeria
-status      : Building things that think and defend themselves
-
 interests:
   - AI-powered automation pipelines
   - Secure backend architecture & API design
