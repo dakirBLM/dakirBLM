@@ -2,10 +2,10 @@
      DAKIR BOULEMCHAOUR — GitHub Profile README
      ============================================================ -->
 
-[Gameplay demo](uzumaki-naruto-shippuden.gif) 
+
 
 <div align="center">
-
+[Gameplay demo](uzumaki-naruto-shippuden.gif) 
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
