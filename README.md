@@ -3,7 +3,7 @@
      ============================================================ -->
 
 
- 
+   ![Gameplay demo](uzumaki-naruto-shippuden.gif)                 
 <div align="center">
 
 ```
@@ -26,7 +26,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Security-Minded+Backend+%26+Systems+Engineer;Building+AI-Powered+Automation+Systems;Secure+by+Design+%E2%80%94+Not+Bolted+On+After;C+%2F+C%2B%2B+%2F+Python+%2F+TypeScript+%2F+Next.js;3rd+Year+CS+%E2%80%94+Thesis+in+Progress)
 
 <br/>
-                   ![Gameplay demo](uzumaki-naruto-shippuden.gif)
 
 ![Status](https://img.shields.io/badge/◉_STATUS-ONLINE-0a0a0a?style=flat-square&labelColor=0a0a0a&color=1D9E75)
 ![Year](https://img.shields.io/badge/YEAR-3rd_CS-0a0a0a?style=flat-square&labelColor=0a0a0a&color=185FA5)
@@ -39,7 +38,6 @@
 ## `>_ whoami`
 
 ```yaml
-name        : Dakir Boulemchaour
 interests:
   - AI-powered automation pipelines
   - Secure backend architecture & API design
