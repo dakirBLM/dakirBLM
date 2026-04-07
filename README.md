@@ -3,7 +3,7 @@
      ============================================================ -->
 
 
-![Gameplay demo](uzumaki-naruto-shippuden.gif) 
+ 
 <div align="center">
 
 ```
@@ -16,12 +16,12 @@
 ║   ██████╔╝██║  ██║██║  ██╗██║██║  ██║                     ║
 ║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝                     ║
 ║                                                           ║
-║        B O U L M E C H A O U R  ·  D HA K I R              ║
+║        B O U L M E C H A O U R  ·  D H A K I R            ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
 <br/>
-
+                     ![Gameplay demo](uzumaki-naruto-shippuden.gif)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Security-Minded+Backend+%26+Systems+Engineer;Building+AI-Powered+Automation+Systems;Secure+by+Design+%E2%80%94+Not+Bolted+On+After;C+%2F+C%2B%2B+%2F+Python+%2F+TypeScript+%2F+Next.js;3rd+Year+CS+%E2%80%94+Thesis+in+Progress)
 
 <br/>
