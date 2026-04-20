@@ -58,13 +58,6 @@ web platform that analyzes patient conditions and routes them to the most approp
 
 ---
 
-### ◈ `GFR` — Global Forum for Researchers
-> **Open Collaboration** · Distributed Academic Platform
-
-Multi-user academic platform with secure collaboration, peer-reviewed publishing pipeline, and hardened research infrastructure.
-
----
-
 ### ◈ `ComptaOCR` — AI Accounting Automation Engine
 > **AI × Automation** · Algerian SCF Accounting Standard
 
@@ -115,11 +108,11 @@ Upload an invoice → OCR scans it → Gemini AI extracts fields and line items 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
-│   EMAIL   →  dakirboulemchaour@gmail.com                        │
+│   EMAIL   →  dakirboulemchaour@gmail.com                         │
 │   OPEN TO →  Backend · Security · AI/Automation engineering      │
 │              Research collaborations · Freelance projects        │
 │                                                                  │
-│   [ Currently open to internships & junior roles ]              │
+│   [ Currently open to internships & junior roles ]               │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
